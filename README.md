@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 - :office: I am Co-Founder at [Hobsido](https://hobsido.com/) a prop-tech startup based in Greece, read about us in [startupper](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/)
-
 - 🔭 I’m interestd in Data Engineering and Data Architecture 
-
-
 - :man_student: My Batchelor degree is in Computer Science and Engineering at University of Ioannina
 
 
