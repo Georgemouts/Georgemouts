@@ -3,7 +3,7 @@
 - :office: I am Co-Founder at [Hobsido](https://hobsido.com/) a prop-tech startup based in Greece, you can read about us in [startupper](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/)
 - 🔭 I’m interestd in Data Engineering and Data Architecture as well as giving value to data
 - :man_student: My Batchelor degree is in Computer Science and Engineering at University of Ioannina
-
+- :email: Where to find me: georgemuts@gmail.com
 
 
 
