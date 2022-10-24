@@ -5,8 +5,9 @@
 - :man_student: My Batchelor degree is in Computer Science and Engineering at University of Ioannina
 - :email: Where to find me: georgemuts@gmail.com
 
-
-
+###Languages:
+ <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img height=50  
 
 
 
