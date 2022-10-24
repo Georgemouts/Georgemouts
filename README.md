@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:office: Co-Founder at Hobsido ![Hobsido](https://hobsido.com/) a prop-tech startup based in Greece, read about us -> startupper![startupper](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/)
+:office: Co-Founder at [Hobsido](https://hobsido.com/) a prop-tech startup based in Greece, read about us in [startupper](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/)
 
 
 
