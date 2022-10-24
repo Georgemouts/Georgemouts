@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+:office: Co-Founder at Hobsido ![alt text](https://hobsido.com/) a prop-tech startup based in Greece, read about us -> startupper![alt text](https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/)
+
+
+
+
+
+
+
 <!--
 **Georgemouts/Georgemouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
