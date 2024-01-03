@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :office: I am Co-Founder and Data Scientist at [Hobsido](https://hobsido.com/), a prop-tech startup based in Greece. You can read about us in [Forbes_30_under_30_Greece]([https://startupper.gr/slider/93546/hobsido-pos-mia-neaniki-startup-erchetai-na-allaxei-ta-dedomena-tou-ellinikou-real-estate/](https://www.forbesgreece.gr/forbes-30-under-30-2024/3753226/hobsido-me-stoxo-ton-psifiako-metasximatismo-tou-real-estate)) 
+- :office: I am Co-Founder and Data Scientist at [Hobsido](https://hobsido.com/), a prop-tech startup based in Greece. You can read about us in [Forbes_30_under_30_Greece](https://www.forbesgreece.gr/forbes-30-under-30-2024/3753226/hobsido-me-stoxo-ton-psifiako-metasximatismo-tou-real-estate) 
 - 🔭 I’m interestd in Data Engineering and Data Architecture
 - :man_student: My Batchelor degree is in Computer Science and Engineering at University of Ioannina
 - :email: Where to find me: georgemuts@gmail.com
